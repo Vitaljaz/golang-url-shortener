@@ -15,6 +15,6 @@
 ## How Install
 ```bash
 git clone https://github.com/Vitaljaz/golang-url-shortener
-cd cd golang-url-shortener
+cd golang-url-shortener
 go run main.go
 ```
